@@ -19,6 +19,8 @@ This is an automation test project to test an Appointment ensuring site to take 
 
 # Configuration process: 
 > git clone https://github.com/jansir17/appointment-test.git
+> npm cypress open
+> click on the test file
 
 # Project Specification
 > Cypress version 8.5.2 
